@@ -5,9 +5,9 @@ This project addresses the challenges faced by a leading solar power provider in
 Client: One of the leading Solar Power Providers
 
 The company faced frequent fluctuations in solar energy output due to:
-. Inconsistent environmental conditions (irradiance, temperature, rainfall)
-. Inefficiencies in inverter performance
-  These issues led to suboptimal power generation and increased operational costs.
+Inconsistent environmental conditions (irradiance, temperature, rainfall)
+Inefficiencies in inverter performance
+These issues led to suboptimal power generation and increased operational costs.
 
 - Business Objective
 . Maximize power production and performance
